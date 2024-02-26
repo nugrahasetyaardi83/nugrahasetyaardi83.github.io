@@ -8,13 +8,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Xapiens Teknologi Indonesia, part of Indika Energy Group",
+      "position": "Data Scientist",
+      "startDate": "2022-10-01",
+      "endDate": "present",
+      "summary": "As a data scientist in an IT consultant company, my works vary a lot depending on the clients' need. Some projects that I have worked on are the following",
+      "highlights": ["Predictive Maintenance"],
+      "highlights": ["Bayesian Optimization"]
     }
   ],
   "volunteer": [
